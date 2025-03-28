@@ -1,23 +1,35 @@
-## HOMEWORK 5: PHOTOMETRIC STEREO
+# Photometric Stereo
 
-#### Instructions
+## Calibrated Photometric Stereo
 
-Follow `hw5.pdf`.
+### Normals
 
-Make sure to check the sections on `FAQ` and `Helpful Concepts` in the pdf.
+![Calib Normals](results/calibrated_normals.png)
 
-To install the required packages for the homework run:
+### Albedo
 
-```
-pip install -r requirements.txt
-```
+![Calib Albedo](results/calibrated_albedo.png)
 
-The packages have been tested with python `3.10.12`
+### Reconstruction
 
-#### HW5 - Submission checklist
+![Result 1](results/calibrated%20photometric%20stereo%20view%201.png)
+![Result 2](results/calibrated%20photometric%20stereo%20view%202.png)
+![Result 3](results/calibrated%20photometric%20stereo%20view%203.png)
+![Result 4](results/calibrated%20photometric%20stereo%20view%204.png)
 
-Submit your write-up and code to Gradescope.
+## Uncalibrated Photometric Stereo
 
-* **Writeup:** The write-up should be a pdf file named \<**AndrewId**\>_hw5.pdf
-* **Code:** The code should be submitted as a zip named \<**AndrewId**\>.zip 
+### Normals
 
+![Calib Normals](results/uncalibrated_normals.png)
+
+### Albedo
+
+![Calib Albedo](results/uncalibrated_albedo.png)
+
+### Reconstruction
+
+![Result 1](results/uncalibrated%20photometric%20stereo%20view%201.png)
+![Result 2](results/uncalibrated%20photometric%20stereo%20view%202.png)
+![Result 3](results/uncalibrated%20photometric%20stereo%20view%203.png)
+![Result 4](results/uncalibrated%20photometric%20stereo%20view%204.png)
